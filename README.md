@@ -1,4 +1,4 @@
-# Data_Scientists_Term_Project
+# Data_Science_Term_Project
 碩一資料科學期末專案
 
 ### Dataset:
