@@ -9,7 +9,6 @@
 
 ### 區分男女預測各科目結果
 ## 男生預測結果
-* XGBoost
 | 科目        | XGBoost | Random Forest (RF) | Logistic Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
 | Math      |MSE: 123.08<br>MAE: 8.89<br>R²: 0.2583<br>RMSE: 11.09|                    |                          |
