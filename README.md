@@ -11,7 +11,7 @@
 ### 男生預測結果
 | 科目        | XGBoost | Random Forest (RF) | Logistic Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
-| Math      |MSE: 123.08<br>MAE: 8.89<br>R²: 0.2583<br>RMSE: 11.09|                    |                          |
+| Math      |MSE: 131.31<br>MAE: 8.95<br>R² 分數: 0.2926<br>RMSE: 11.46|                    |                          |
 | History   |         |                    |                          |
 | Physics   |         |                    |                          |
 | Chemistry |         |                    |                          |
@@ -22,7 +22,7 @@
 ### 女生預測結果
 | 科目        | XGBoost | Random Forest (RF) | Logistic Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
-| Math      |MSE: 123.08<br>MAE: 8.89<br>R² 分數: 0.2583<br>RMSE: 11.09|                    |                          |
+| Math      |MSE: 137.74<br>MAE: 9.27<br>R² 分數: 0.3145<br>RMSE: 11.74|                    |                          |
 | History   |         |                    |                          |
 | Physics   |         |                    |                          |
 | Chemistry |         |                    |                          |
