@@ -9,7 +9,7 @@
 
 ## 區分男女預測各科目結果
 ### 男生預測結果
-| 科目        | XGBoost | Random Forest Regression(RFR) | Logistic Regression (LR) |
+| 科目        | XGBoost | Random Forest Regression(RFR) | Linear Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
 | Math      |MSE: 131.31<br>MAE: 8.95<br>R² 分數: 0.2926<br>RMSE: 11.46|MSE: 149.58<br>MAE: 9.49<br>R² 分數: 0.1942<br>RMSE: 12.23|MSE: 140.12<br>MAE: 9.28<br>R² 分數: 0.2452<br>RMSE: 11.84|
 | History   |MSE: 149.23<br>MAE: 10.36<br>R² 分數: 0.1240<br>RMSE: 12.22|MSE: 189.28<br>MAE: 11.25<br>R² 分數: -0.1111<br>RMSE: 13.76|MSE: 146.86<br>MAE: 10.27<br>R² 分數: 0.1379<br>RMSE: 12.12|
@@ -20,7 +20,7 @@
 | Geography |MSE: 134.35<br>MAE: 9.94<br>R² 分數: 0.0629<br>RMSE: 11.59|MSE: 165.38<br>MAE: 10.76<br>R² 分數: -0.1535<br>RMSE: 12.86|MSE: 135.27<br>MAE: 9.96<br>R² 分數: 0.0565<br>RMSE: 11.63|
 
 ### 女生預測結果
-| 科目        | XGBoost | Random Forest Regression(RFR) | Logistic Regression (LR) |
+| 科目        | XGBoost | Random Forest Regression(RFR) | Linear Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
 | Math      |MSE: 137.74<br>MAE: 9.27<br>R² 分數: 0.3145<br>RMSE: 11.74|MSE: 185.17<br>MAE: 10.51<br>R² 分數: 0.0784<br>RMSE: 13.61|MSE: 132.84<br>MAE: 9.05<br>R² 分數: 0.3389<br>RMSE: 11.53|
 | History   |MSE: 139.75<br>MAE: 10.15<br>R² 分數: 0.1288<br>RMSE: 11.82|MSE: 193.37<br>MAE: 11.40<br>R² 分數: -0.2055<br>RMSE: 13.91|MSE: 153.15<br>MAE: 10.68<br>R² 分數: 0.0453<br>RMSE: 12.38|
