@@ -11,21 +11,21 @@
 ### 男生預測結果
 | 科目        | XGBoost | Random Forest Regression(RFR) | Linear Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
-| Math      |MSE: 131.31<br>MAE: 8.95<br>R² 分數: 0.2926<br>RMSE: 11.46|MSE: 149.58<br>MAE: 9.49<br>R² 分數: 0.1942<br>RMSE: 12.23|MSE: 140.12<br>MAE: 9.28<br>R² 分數: 0.2452<br>RMSE: 11.84|
-| History   |MSE: 149.23<br>MAE: 10.36<br>R² 分數: 0.1240<br>RMSE: 12.22|MSE: 189.28<br>MAE: 11.25<br>R² 分數: -0.1111<br>RMSE: 13.76|MSE: 146.86<br>MAE: 10.27<br>R² 分數: 0.1379<br>RMSE: 12.12|
-| Physics   |MSE: 149.11<br>MAE: 10.48<br>R² 分數: 0.0983<br>RMSE: 12.21|MSE: 185.70<br>MAE: 11.31<br>R² 分數: -0.1230<br>RMSE: 13.63|MSE: 149.33<br>MAE: 10.47<br>R² 分數: 0.0969<br>RMSE: 12.22|
-| Chemistry |MSE: 149.42<br>MAE: 10.47<br>R² 分數: 0.0897<br>RMSE: 12.22|MSE: 189.21<br>MAE: 11.34<br>R² 分數: -0.1526<br>RMSE: 13.76|MSE: 152.52<br>MAE: 10.63<br>R² 分數: 0.0709<br>RMSE: 12.35|
-| Biology   |MSE: 173.36<br>MAE: 10.45<br>R² 分數: 0.1752<br>RMSE: 13.17|MSE: 197.52<br>MAE: 11.17<br>R² 分數: 0.0602<br>RMSE: 14.05|MSE: 168.83<br>MAE: 10.54<br>R² 分數: 0.1967<br>RMSE: 12.99|
-| English   |MSE: 139.86<br>MAE: 9.99<br>R² 分數: 0.1271<br>RMSE: 11.83|MSE: 157.08<br>MAE: 10.28<br>R² 分數: 0.0197<br>RMSE: 12.53|MSE: 137.76<br>MAE: 9.74<br>R² 分數: 0.1403<br>RMSE: 11.74|
-| Geography |MSE: 134.35<br>MAE: 9.94<br>R² 分數: 0.0629<br>RMSE: 11.59|MSE: 165.38<br>MAE: 10.76<br>R² 分數: -0.1535<br>RMSE: 12.86|MSE: 135.27<br>MAE: 9.96<br>R² 分數: 0.0565<br>RMSE: 11.63|
+| Math      |MSE: 80.84<br>MAE: 7.24<br>R² 分數: 0.1845<br>RMSE: 8.99|MSE: 91.19<br>MAE: 7.57<br>R² 分數: 0.0801<br>RMSE: 9.55|MSE: 79.42<br>MAE: 7.25<br>R² 分數: 0.1988<br>RMSE: 8.91|
+| History   |MSE: 119.62<br>MAE: 9.16<br>R² 分數: 0.1139<br>RMSE: 10.94|MSE: 155.92<br>MAE: 10.12<br>R² 分數: -0.1549<br>RMSE: 12.49|MSE: 122.70<br>MAE: 9.22<br>R² 分數: 0.0912<br>RMSE: 11.08|
+| Physics   |MSE: 114.96<br>MAE: 8.97<br>R² 分數: 0.1857<br>RMSE: 10.72|MSE: 143.03<br>MAE: 9.67<br>R² 分數: -0.0131<br>RMSE: 11.96|MSE: 121.43<br>MAE: 9.12<br>R² 分數: 0.1399<br>RMSE: 11.02|
+| Chemistry |MSE: 152.99<br>MAE: 10.75<br>R² 分數: 0.0648<br>RMSE: 12.37|MSE: 183.15<br>MAE: 11.19<br>R² 分數: -0.1196<br>RMSE: 13.53|MSE: 160.80<br>MAE: 11.15<br>R² 分數: 0.0170<br>RMSE: 12.68|
+| Biology   |MSE: 164.92<br>MAE: 11.22<br>R² 分數: 0.1348<br>RMSE: 12.84|MSE: 199.03<br>MAE: 11.67<br>R² 分數: -0.0441<br>RMSE: 14.11|MSE: 171.49<br>MAE: 11.44<br>R² 分數: 0.1004<br>RMSE: 13.10|
+| English   |MSE: 116.17<br>MAE: 8.76<br>R² 分數: 0.1334<br>RMSE: 10.78|MSE: 134.40<br>MAE: 9.36<br>R² 分數: -0.0026<br>RMSE: 11.59|MSE: 118.47<br>MAE: 8.92<br>R² 分數: 0.1162<br>RMSE: 10.88|
+| Geography |MSE: 131.32<br>MAE: 9.57<br>R² 分數: 0.0518<br>RMSE: 11.46|MSE: 160.83<br>MAE: 10.72<br>R² 分數: -0.1613<br>RMSE: 12.68|MSE: 133.23<br>MAE: 9.68<br>R² 分數: 0.0380<br>RMSE: 11.54|
 
 ### 女生預測結果
 | 科目        | XGBoost | Random Forest Regression(RFR) | Linear Regression (LR) |
 | --------- | ------- | ------------------ | ------------------------ |
-| Math      |MSE: 137.74<br>MAE: 9.27<br>R² 分數: 0.3145<br>RMSE: 11.74|MSE: 185.17<br>MAE: 10.51<br>R² 分數: 0.0784<br>RMSE: 13.61|MSE: 132.84<br>MAE: 9.05<br>R² 分數: 0.3389<br>RMSE: 11.53|
-| History   |MSE: 139.75<br>MAE: 10.15<br>R² 分數: 0.1288<br>RMSE: 11.82|MSE: 193.37<br>MAE: 11.40<br>R² 分數: -0.2055<br>RMSE: 13.91|MSE: 153.15<br>MAE: 10.68<br>R² 分數: 0.0453<br>RMSE: 12.38|
-| Physics   |MSE: 127.69<br>MAE: 9.58<br>R² 分數: 0.1186<br>RMSE: 11.30|MSE: 166.56<br>MAE: 10.27<br>R² 分數: -0.1496<br>RMSE: 12.91|MSE: 129.34<br>MAE: 9.70<br>R² 分數: 0.1073<br>RMSE: 11.37|
-| Chemistry |MSE: 152.63<br>MAE: 10.33<br>R² 分數: -0.0806<br>RMSE: 12.35|MSE: 183.91<br>MAE: 11.20<br>R² 分數: -0.3020<br>RMSE: 13.56|MSE: 143.95<br>MAE: 10.24<br>R² 分數: -0.0192<br>RMSE: 12.00|
-| Biology   |MSE: 171.35<br>MAE: 11.05<br>R² 分數: 0.1861<br>RMSE: 13.09|MSE: 167.83<br>MAE: 10.96<br>R² 分數: 0.2028<br>RMSE: 12.96|MSE: 208.66<br>MAE: 11.58<br>R² 分數: 0.0089<br>RMSE: 14.44|
-| English   |MSE: 128.53<br>MAE: 9.30<br>R² 分數: 0.1085<br>RMSE: 11.34|MSE: 151.19<br>MAE: 9.88<br>R² 分數: -0.0487<br>RMSE: 12.30|MSE: 130.97<br>MAE: 9.50<br>R² 分數: 0.0916<br>RMSE: 11.44|
-| Geography |MSE: 117.27<br>MAE: 9.18<br>R² 分數: 0.0671<br>RMSE: 10.83|MSE: 149.56<br>MAE: 9.90<br>R² 分數: -0.1897<br>RMSE: 12.23|MSE: 118.06<br>MAE: 9.06<br>R² 分數: 0.0608<br>RMSE: 10.87|
+| Math      |MSE: 106.51<br>MAE: 8.10<br>R² 分數: 0.2198<br>RMSE: 10.32|MSE: 123.13<br>MAE: 8.44<br>R² 分數: 0.0980<br>RMSE: 11.10|MSE: 98.60<br>MAE: 7.96<br>R² 分數: 0.2777<br>RMSE: 9.93|
+| History   |MSE: 143.45<br>MAE: 10.10<br>R² 分數: 0.0360<br>RMSE: 11.98|MSE: 191.17<br>MAE: 11.24<br>R² 分數: -0.2846<br>RMSE: 13.83|MSE: 147.82<br>MAE: 10.36<br>R² 分數: 0.0066<br>RMSE: 12.16|
+| Physics   |MSE: 137.69<br>MAE: 9.91<br>R² 分數: 0.0262<br>RMSE: 11.73|MSE: 185.27<br>MAE: 11.08<br>R² 分數: -0.3103<br>RMSE: 13.61|MSE: 144.09<br>MAE: 10.19<br>R² 分數: -0.0191<br>RMSE: 12.00|
+| Chemistry |MSE: 152.71<br>MAE: 10.63<br>R² 分數: 0.0578<br>RMSE: 12.36|MSE: 175.04<br>MAE: 10.90<br>R² 分數: -0.0799<br>RMSE: 13.23|MSE: 154.38<br>MAE: 10.70<br>R² 分數: 0.0475<br>RMSE: 12.43|
+| Biology   |MSE: 140.29<br>MAE: 10.16<br>R² 分數: 0.1266<br>RMSE: 11.84|MSE: 196.44<br>MAE: 11.65<br>R² 分數: -0.2230<br>RMSE: 14.02|MSE: 139.43<br>MAE: 10.03<br>R² 分數: 0.1320<br>RMSE: 11.81|
+| English   |MSE: 132.48<br>MAE: 9.72<br>R² 分數: 0.1171<br>RMSE: 11.51|MSE: 158.02<br>MAE: 10.19<br>R² 分數: -0.0531<br>RMSE: 12.57|MSE: 142.05<br>MAE: 10.01<br>R² 分數: 0.0533<br>RMSE: 11.92|
+| Geography |MSE: 117.79<br>MAE: 9.14<br>R² 分數: 0.0133<br>RMSE: 10.85|MSE: 158.81<br>MAE: 10.35<br>R² 分數: -0.3303<br>RMSE: 12.60|MSE: 121.18<br>MAE: 9.13<br>R² 分數: -0.0151<br>RMSE: 11.01|
